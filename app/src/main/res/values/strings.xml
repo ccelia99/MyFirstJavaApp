@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstJavaApp</string>
+    <string name="button">Button</string>
+    <string name="resultTextView">Result</string>
+    <string name="firstNumEditText">Enter a number</string>
+    <string name="secondNumEditText">Enter a number</string>
+    <string name="addBtn">ADD</string>
+
+</resources>
